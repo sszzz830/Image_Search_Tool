@@ -3,7 +3,7 @@
 Implementing search content/text/image search within the local photo gallery, along with other extensions.
 
 ## 效果
-1.输入文字搜索内容/Search content by entering text<br><img width="912" alt="Screenshot 2023-08-18 at 09 20 13" src="https://github.com/sszzz830/Image_Search_Tool/assets/32834442/e7c9358e-5f7d-4d64-b5e8-472e5d73dc48"><br>
+1.输入文字搜索内容(默认输出最多100张,按匹配度从前往后排序)/Search content by entering text(output 100 images max by default, sorted by relevance)<br><img width="912" alt="Screenshot 2023-08-18 at 09 20 13" src="https://github.com/sszzz830/Image_Search_Tool/assets/32834442/e7c9358e-5f7d-4d64-b5e8-472e5d73dc48"><br>
 
 2.输入文字搜索精确包含指定文字在图上的图片/Search for images that precisely contain the specified text<br><img width="912" alt="Screenshot 2023-08-18 at 09 24 19" src="https://github.com/sszzz830/Image_Search_Tool/assets/32834442/53d506a8-bdea-4f9f-a991-6a9c8b7405c5"><br>
 
